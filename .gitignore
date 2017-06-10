@@ -1,0 +1,6 @@
+local.db
+uploads/*
+__pycache__
+*.pyc
+.idea/
+venv/
